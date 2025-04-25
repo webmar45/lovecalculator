@@ -1,0 +1,33 @@
+
+div{
+  background-image: url(./assets/heart.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:red;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+  border: 10px;
+  border-color: red;
+  min-width: 700px;
+  min-height: 600px;
+}
+
+input{
+  padding: 8px;
+  margin-bottom: 10px;
+  border-color: red;
+  border-radius: 4px;
+}
+
+button{
+  background: red;
+  color: white;
+}
+
+h1{
+  margin-top: 90px;
+}
+h2{
+  color: whitesmoke;
+}
